@@ -1,0 +1,35 @@
+libnolto_coregrind_arm_linux_a-m_libcsetjmp.o: m_libcsetjmp.c \
+ pub_core_basics.h ../include/pub_tool_basics.h \
+ ../VEX/pub/libvex_basictypes.h \
+ /home/yong/newdisk/android-ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ pub_core_libcsetjmp.h ../include/pub_tool_libcsetjmp.h \
+ ../include/pub_tool_basics.h \
+ /home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/setjmp.h \
+ /home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/sys/cdefs.h \
+ /home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/android/api-level.h \
+ /home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/machine/setjmp.h
+
+pub_core_basics.h:
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/home/yong/newdisk/android-ndk/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h:
+
+pub_core_libcsetjmp.h:
+
+../include/pub_tool_libcsetjmp.h:
+
+../include/pub_tool_basics.h:
+
+/home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/setjmp.h:
+
+/home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/sys/cdefs.h:
+
+/home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/android/api-level.h:
+
+/home/yong/newdisk/android-ndk/platforms/android-21/arch-arm/usr/include/machine/setjmp.h:
